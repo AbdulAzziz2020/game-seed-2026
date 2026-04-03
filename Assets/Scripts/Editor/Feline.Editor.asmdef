@@ -1,0 +1,19 @@
+{
+    "name": "Feline.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f3c6ef058c96f8349aae665b51def2af",
+        "GUID:8888ca81d9ea960469614e3676926f9a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

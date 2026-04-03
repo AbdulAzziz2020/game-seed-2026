@@ -1,0 +1,16 @@
+{
+    "name": "Feline.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8888ca81d9ea960469614e3676926f9a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
